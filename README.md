@@ -6,7 +6,7 @@ A Laravel-based URL shortener service with role-based access control, supporting
 
 - PHP 8.2 or higher
 - Composer
-- SQLite (default) or MySQL
+- MySQL
 - Node.js and NPM
 
 ## Setup & Run Project
@@ -36,7 +36,6 @@ php artisan db:seed
 
 ```bash
 npm run dev
-# npm run build
 ```
 
 ### Step 5: Start Server
