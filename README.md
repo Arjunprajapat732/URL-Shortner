@@ -35,7 +35,8 @@ php artisan db:seed
 ### Step 4: Build Frontend Assets
 
 ```bash
-npm run build
+npm run dev
+# npm run build
 ```
 
 ### Step 5: Start Server
